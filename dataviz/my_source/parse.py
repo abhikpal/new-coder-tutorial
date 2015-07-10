@@ -1,6 +1,6 @@
 import csv
 
-DATA_FILE = "./data/sample_sfpd_incident_all.csv"
+DATA_FILE = "../data/sample_sfpd_incident_all.csv"
 
 
 def parse(raw_file, _delimiter):
